@@ -12,5 +12,6 @@ public class Split {
             System.out.println(name1);
         }
     }
-}
+    }
+
 
