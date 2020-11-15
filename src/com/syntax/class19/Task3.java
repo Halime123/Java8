@@ -16,17 +16,17 @@ public class Task3 {
     }
     private Task3 (int a){
         this.a=a;
-        System.out.println(a);
+      //  System.out.println(a);
 
     }
      public Task3(String s){
         this.s=s;
-         System.out.println(s);
+        // System.out.println(s);
 
     }
     protected Task3(char m){
         this.m=m;
-        System.out.println(m);
+       // System.out.println(m);
 
     }
 
